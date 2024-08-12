@@ -24,6 +24,33 @@ The Bank Management Application is a web-based application built with ASP.NET Co
 2. Run the project (e.g., press F5 in Visual Studio) to start the application
 3. Open your web browser and visit: `http://localhost:[port]` (replace `[port]` with the appropriate port number)
 
+## App Interface
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img src="readme-images/1.png" width="200">
+    <img src="readme-images/2.png" width="200">
+    <img src="readme-images/3.png" width="200">
+    <img src="readme-images/4.png" width="200">
+    <img src="readme-images/5.png" width="200">
+    <img src="readme-images/6.png" width="200">
+    <img src="readme-images/7.png" width="200">
+    <img src="readme-images/8.png" width="200">
+    <img src="readme-images/10.png" width="200">
+    <img src="readme-images/11.png" width="200">
+    <img src="readme-images/12.png" width="200">
+    <img src="readme-images/13.png" width="200">
+    <img src="readme-images/14.png" width="200">
+    <img src="readme-images/compte.png" width="200">
+    <img src="readme-images/mouvement.png" width="200">
+    <img src="readme-images/tables.png" width="200">
+</div>
+
+## One Click Integration
+
+![One Click Integration](readme-images/eBank%20Integration%20With%20API%20in%20any%20website.png)
+
+Our One Click Integration feature adheres to all relevant banking regulations and security standards. This ensures a seamless and compliant integration process for our banking services. We prioritize data protection, user privacy, and secure transactions in full compliance with financial industry regulations.
+
 ## Database Configuration
 
 1. Install XAMPP: Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
