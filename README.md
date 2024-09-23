@@ -14,7 +14,7 @@ The Bank Management Application is a web-based application built with ASP.NET Co
 
 ## Installation
 
-1. Clone the repository: `git clone (https://github.com/najlae01/bank-app.git)`
+1. Clone the repository: `git clone https://github.com/divitcr7/Advanced-Banking-Architecture---eBanking.git`
 2. Open the project in your preferred development environment (e.g., Visual Studio)
 3. Build the solution to restore NuGet packages and compile the project
 
